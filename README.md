@@ -1,1 +1,2 @@
 # DjangoRealtyApp
+This  is a python 3 Django Framework based Realty application which lets users search for properties using various filters , view all the uploaded property photos and other details and also make enquiries for the properties . The admin users are the ones who will be uploading the properties , listing the brokers and providing user grants.I have used POSTGRESQL as a back end service.
